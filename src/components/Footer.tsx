@@ -12,7 +12,7 @@ export default function Footer() {
     return (
         <div className="py-24 sm:py-32 h-full relative w-full px-4">
             <ContactForm />
-            <div className="mx-auto max-w-7xl mt-12 px-6 lg:px-12 z-10 relative bg-white rounded-lg">
+            <div className="mx-auto max-w-7xl mt-36 px-6 lg:px-12 z-10 relative bg-white rounded-lg">
                 <div className="mx-auto lg:mx-0 py-8 w-full items-center flex flex-col sm:flex-row justify-center  sm:justify-between">
                     <h2 className='text-2xl sm:text-left text-center font-serif text-slate-900'>Renee Clark</h2>
                     <div className='flex gap-4 justify-center sm:justify-end mt-4 sm:mt-0'>

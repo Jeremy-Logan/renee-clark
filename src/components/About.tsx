@@ -4,7 +4,7 @@ import { CldImage } from "next-cloudinary"
 
 export default function About() {
     return (
-        <div className="bg-white">
+        <div id='about' className="bg-white">
             <section className="relative max-w-6xl mx-auto pt-12 flex">
                 <div className="mx-auto max-w-2xl px-4 pb-24 pt-16 sm:px-6 sm:pb-16 lg:grid lg:max-w-7xl lg:grid-cols-2 lg:gap-x-8 lg:px-8 lg:pt-32">
                     <div className="relative aspect-h-3 aspect-w-3 overflow-hidden sm:aspect-w-4 lg:pr-4 xl:pr-16">

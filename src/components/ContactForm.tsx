@@ -10,7 +10,7 @@ export default function ContactForm() {
     const [agreed, setAgreed] = useState(false)
 
     return (
-        <div className="relative px-6 mt-10 py-16 lg:px-8 z-10 bg-stone-100/60 max-w-3xl w-full xl:w-1/3 mx-auto rounded-lg shadow-lg">
+        <div id='contact' className="relative px-6 mt-10 py-16 lg:px-8 z-10 bg-stone-100/60 max-w-3xl w-full xl:w-1/3 mx-auto rounded-lg shadow-lg">
             
             <div className="mx-auto max-w-2xl text-center">
                 <h2 className="text-3xl font-bold tracking-tight text-slate-900 font-serif sm:text-4xl">Contact</h2>

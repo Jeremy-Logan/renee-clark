@@ -4,7 +4,7 @@ import { CldImage } from "next-cloudinary"
 
 export default function Approach() {
     return (
-        <div className="bg-white">
+        <div id='practice' className="bg-white">
             <section className="relative max-w-6xl mx-auto pt-12 flex">
                 <div className="mx-auto px-4 pb-16 pt-16 sm:px-6">
                     <div className="relative aspect-h-2 aspect-w-4 overflow-hidden sm:aspect-w-6 lg:pr-4 xl:pr-16">
